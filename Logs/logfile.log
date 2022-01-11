@@ -1,0 +1,4 @@
+01/02/2022 05:26:31 PM: INFO: This is our first log
+01/02/2022 05:28:12 PM: INFO: This is a new log
+01/02/2022 05:28:12 PM: ERROR: This is an error log
+01/02/2022 05:28:12 PM: CRITICAL: This is a fatal log
